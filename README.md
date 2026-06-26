@@ -1,2 +1,2 @@
-# maliibun.github.io
-my github page resume
+# Github.io Resume Page
+Made with Vite and React
